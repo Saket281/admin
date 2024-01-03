@@ -23,11 +23,18 @@ Include screenshots or GIFs showcasing the different sections and functionalitie
 
 ![Screenshot 2023-12-31 223724](https://github.com/Saket281/admin/assets/131553738/0774d459-6e0e-450d-898f-784947a7c9e1)
 
-### Analytics![Screenshot 2023-12-31 223745](https://github.com/Saket281/admin/assets/131553738/b8d50fe7-2916-4b63-84f8-1bf70275da79)
-![Screenshot 2023-12-31 223756](https://github.com/Saket281/admin/assets/131553738/4c21db10-41f7-401b-844e-46a889bf498c)
-![Screenshot 2023-12-31 22![Screenshot 2023-12-31 223841](https://github.com/Saket281/admin/assets/131553738/13d9a138-775b-4c04-aa4a-215f3d5aa793)
-3833](https://github.com/Saket281/admin/assets/131553738/efe283aa-4657-4fe9-821c-86e62072d653![Screenshot 2023-12-31 223917](https://github.com/Saket281/admin/assets/131553738/8f00448f-288c-4432-8ab2-177c6451a2dd)
-)
+### Analytics![Screenshot 2023-12-31 223745]
+![Screenshot 2023-12-31 223745](https://github.com/Saket281/admin/assets/131553738/20ca4731-f5fd-4133-8f2d-9dfde2c0d50a)
+
+![Screenshot 2023-12-31 223756](https://github.com/Saket281/admin/assets/131553738/0cd10250-c285-4ff2-bc51-574065d5a615)
+
+![Screenshot 2023-12-31 223833](https://github.com/Saket281/admin/assets/131553738/5d392550-a66f-4d6d-8bba-082381dc2358)
+
+
+![Screenshot 2023-12-31 223841](https://github.com/Saket281/admin/assets/131553738/69d089f5-ac52-4cab-abd7-7a02b681e430)
+
+![Screenshot 2023-12-31 223917](https://github.com/Saket281/admin/assets/131553738/edcafc01-007a-4136-81ff-1743ee844ff7)
+
 
 
 ## Technologies Used
